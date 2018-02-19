@@ -1,0 +1,3 @@
+# void
+
+The uninhabited type.
